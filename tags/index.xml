@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on andreaguida</title>
-    <link>http://andreaguida.me/tags/</link>
-    <description>Recent content in Tags on andreaguida.me</description>
+    <link>https://andreaguida.github.io/tags/</link>
+    <description>Recent content in Tags on andreaguida.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>© Copyright notice | Vitae theme for Hugo</copyright>
     
-    <atom:link href="http://andreaguida.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andreaguida.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
