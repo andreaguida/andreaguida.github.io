@@ -3,15 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://andreaguida.me/</loc>
+    <lastmod>2020-05-04T00:28:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://andreaguida.me/post/post/</loc>
+    <lastmod>2020-05-04T00:28:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://andreaguida.me/post/</loc>
+    <lastmod>2020-05-04T00:28:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andreaguida.me/post/my-first-post/</loc>
+    <lastmod>2020-05-03T16:28:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andreaguida.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andreaguida.me/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andreaguida.me/tags/</loc>
   </url>
   
 </urlset>

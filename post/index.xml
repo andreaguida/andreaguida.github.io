@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>andreaguida</title>
-    <link>http://andreaguida.me/</link>
-    <description>Recent content on andreaguida.me</description>
+    <title>Posts on andreaguida</title>
+    <link>http://andreaguida.me/post/</link>
+    <description>Recent content in Posts on andreaguida.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <copyright>© Copyright notice | Vitae theme for Hugo</copyright>
     <lastBuildDate>Mon, 04 May 2020 00:28:28 +0200</lastBuildDate>
     
-    <atom:link href="http://andreaguida.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://andreaguida.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post di prova</title>
